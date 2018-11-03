@@ -10,4 +10,4 @@ Accepting latex conversion of the documents.
 ### Notes to add
 - [ ] Regularization
 - [ ] Different types of Losses
-- [ ] Linear algebra essentials
+- [ ] Activation functions
