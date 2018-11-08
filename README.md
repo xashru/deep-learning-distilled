@@ -1,5 +1,5 @@
 # deep-learning-distilled
-Notes on some important deep learning topics.</br>
+Notes on some important deep learning topics and paper summaries.</br>
 Feel free to contribute.</br>
 Accepting latex conversion of the documents.
 
