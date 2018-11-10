@@ -9,6 +9,7 @@ Accepting latex conversion of the documents.
 
 ### Paper Summary
 1. [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792)
+2. [Learning and transferring mid-Level image representations using convolutional neural networks](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Oquab_Learning_and_Transferring_2014_CVPR_paper.pdf)
 
 
 ### Notes to add
