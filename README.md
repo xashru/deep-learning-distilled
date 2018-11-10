@@ -16,4 +16,4 @@ Accepting latex conversion of the documents.
 ### Notes to add
 - [ ] Regularization
 - [ ] Different types of Losses
-- [ ] Activation functions
+- [ ] Activation functions: swish
