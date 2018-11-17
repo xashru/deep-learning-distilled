@@ -12,6 +12,8 @@ Accepting latex conversion of the documents.
 1. [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792)
 2. [Learning and transferring mid-Level image representations using convolutional neural networks](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Oquab_Learning_and_Transferring_2014_CVPR_paper.pdf)
 3. [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
+4. [Sequence to Sequence Learning with Neural Networks]https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.pdf)
+5. [Distributed Representations of Sentences and Documents](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Distributed%20Representations%20of%20Sentences%20and%20Documents.pdf)
 
 
 ### Notes to add
