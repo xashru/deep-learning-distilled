@@ -1,7 +1,7 @@
 # deep-learning-distilled
 Notes on some important deep learning topics and paper summaries.</br>
 Feel free to contribute.</br>
-Accepting latex conversion of the documents.
+all documents have corresponding latex file you can edit.
 
 ### Notes added so far
 * **Information, Entropy, Cross-Entropy: ML perspective:** Basic of information theory, why *log* is used to represent information. entropy, cross entropy, KL divergence, likelihood, why cross entropy loss is used in machine learning. 
