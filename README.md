@@ -14,6 +14,7 @@ Accepting latex conversion of the documents.
 3. [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
 4. [Sequence to Sequence Learning with Neural Networks](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.pdf)
 5. [Distributed Representations of Sentences and Documents](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Distributed%20Representations%20of%20Sentences%20and%20Documents.pdf)
+6. [VGG](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Very%20Deep%20Convolutional%20Networks%20for%20Large-Scale%20Image%20Recognition(VGG).pdf)
 
 
 ### Notes to add
