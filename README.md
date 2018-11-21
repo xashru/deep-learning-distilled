@@ -7,6 +7,7 @@ all documents have corresponding latex file you can edit.
 * **Information, Entropy, Cross-Entropy: ML perspective:** Basic of information theory, why *log* is used to represent information. entropy, cross entropy, KL divergence, likelihood, why cross entropy loss is used in machine learning. 
 * **Gradient Descent Optimizations:** Three gradient descent varients, chalenges with vanilla gradient descent, momentum, Nesterov accelerated gradient, Adagrad, RMSprop, Adadelta, Adam.
 * **Common activation functions used in neural net:** why we need to use activation function, desirable properties of activation, sigmoid, tanh, relu, prelu, elu.
+**Why ReLU(instead of sigmoid/tanh)?:** why ReLU is better suited for deep learning compared to sigmoid or tanh, some of the potential problems with ReLU and how to mitigate them.
 
 ### Paper Summary
 1. [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792)
