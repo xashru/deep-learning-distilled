@@ -18,6 +18,7 @@ all documents have corresponding latex file you can edit.
 6. [VGG](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Very%20Deep%20Convolutional%20Networks%20for%20Large-Scale%20Image%20Recognition(VGG).pdf)
 7. [ResNet](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf)
 8. [Deep Sparse Rectifier Neural Networks](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Deep%20Sparse%20Rectifier%20Neural%20Networks.pdf)
+9. [Network in Network](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Network%20in%20Network.pdf)
 
 
 
