@@ -21,7 +21,7 @@ Documents have corresponding latex file you can edit.
 9. [Network in Network](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Network%20in%20Network.pdf)
 10. [GoogLeNet](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Going%20deeper%20with%20convolutions.pdf)
 11. [MobileNets](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/MobileNets-Efficient%20Convolutional%20Neural%20Networks%20for%20Mobile%20Vision%20Applications.pdf)
-
+12. [AlexNet](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Networks.pdf)
 
 ### Notes to add
 - [ ] Regularization
