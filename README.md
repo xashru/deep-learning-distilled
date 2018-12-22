@@ -20,6 +20,7 @@ Documents have corresponding latex file you can edit.
 8. [Deep Sparse Rectifier Neural Networks](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Deep%20Sparse%20Rectifier%20Neural%20Networks.pdf)
 9. [Network in Network](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Network%20in%20Network.pdf)
 10. [GoogLeNet](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Going%20deeper%20with%20convolutions.pdf)
+11. [MobileNets](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/MobileNets-Efficient%20Convolutional%20Neural%20Networks%20for%20Mobile%20Vision%20Applications.pdf)
 
 
 ### Notes to add
