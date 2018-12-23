@@ -24,6 +24,7 @@ Documents have corresponding latex file you can edit.
 12. [AlexNet](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Networks.pdf)
 13. [Inception-V2](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Rethinking%20the%20Inception%20Architecture%20for%20Computer%20Vision.pdf)
 14. [Inception-V4](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Inception-v4%2C%20Inception-ResNet%20and%20the%20Impact%20of%20Residual%20Connections%20on%20Learning.pdf)
+15. [Dropout](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Dropout-%20A%20Simple%20Way%20to%20Prevent%20Neural%20Networks%20from%20Overfitting.pdf)
 
 ### Notes to add
 - [ ] Regularization
