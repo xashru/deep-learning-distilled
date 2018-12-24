@@ -42,7 +42,7 @@
     \item To evaluate performance, they denote two pairs of words with the same relationship as a question, asking "What is the word that is similar to \textit{small} in the same sense as \textit{biggest} is similar to \textit{big}?" This can be answered by simple algebraic operations on vector representation of words. To answer the above question we can simply calculate the vector $X=vector("biggest")-vector("big")+vector("small")$. We can then search in the vector space for the word closest to $X$ measured by cosine distance and use it as the answer to the question. 
     \item When we train on larger dataset, we should use higher dimensional vector otherwise the gain in performance won't be significant.
     \item Skip-gram model was able to capture better semantic relationship between words than other approaches. Both CBOW and Skip-gram perform comparatively to NNLM model on syntactic similarity task but require much less time to train.
-    \item To improve accuracy on the word similarity task, we can provide more than one example of the relationship. By using ten examples instead of one to form the relationship vector9averaging the individual vectors together) they were able to improve accuracy by 10\%.
+    \item To improve accuracy on the word similarity task, we can provide more than one example of the relationship. By using ten examples instead of one to form the relationship vector (averaging the individual vectors together) they were able to improve accuracy by 10\%.
     \item We can also find out out-of-the-list words by computing average vector for a list of words and finding the most distant word vector.
 
 \end{itemize}
