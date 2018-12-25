@@ -4,7 +4,7 @@ Feel free to contribute.</br>
 Documents have corresponding latex file you can edit.
 
 ### Notes added so far
-* **Information, Entropy, Cross-Entropy: ML perspective:** Basic of information theory, why *log* is used to represent information. entropy, cross entropy, KL divergence, likelihood, why cross entropy loss is used in machine learning. 
+* **[Why ReLU(instead of sigmoid/tanh)?:]** (https://github.com/xashru/deep-learning-distilled/blob/master/pdf/notes/Information%2C%20Entropy%2C%20Cross-Entropy%20ML%20perspective.pdf)Basic of information theory, why *log* is used to represent information. entropy, cross entropy, KL divergence, likelihood, why cross entropy loss is used in machine learning. 
 * **Gradient Descent Optimizations:** Three gradient descent varients, chalenges with vanilla gradient descent, momentum, Nesterov accelerated gradient, Adagrad, RMSprop, Adadelta, Adam.
 * **Common activation functions used in neural net:** why we need to use activation function, desirable properties of activation, sigmoid, tanh, relu, prelu, elu.
 * **[Why ReLU(instead of sigmoid/tanh)?:](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/notes/Why%20ReLU.pdf)** why ReLU is better suited for deep learning compared to sigmoid or tanh, some of the potential problems with ReLU and how to mitigate them.
