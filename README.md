@@ -27,6 +27,7 @@ Documents have corresponding latex file you can edit.
 15. [Dropout](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Dropout-%20A%20Simple%20Way%20to%20Prevent%20Neural%20Networks%20from%20Overfitting.pdf)
 16. [Efficient Estimation of Word Representations in Vector Space](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Efficient%20Estimation%20of%20Word%20Representations%20in%20Vector%20Space.pdf)
 17. [A Convolutional Neural Network for Modelling Sentences](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/A%20Convolutional%20Neural%20Network%20for%20Modelling%20Sentences.pdf)
+18. [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Effective%20Approaches%20to%20Attention-based%20Neural%20Machine%20Translation.pdf)
 
 ### Notes to add
 - [ ] Regularization
