@@ -28,6 +28,7 @@ Documents have corresponding latex file you can edit.
 16. [Efficient Estimation of Word Representations in Vector Space](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Efficient%20Estimation%20of%20Word%20Representations%20in%20Vector%20Space.pdf)
 17. [A Convolutional Neural Network for Modelling Sentences](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/A%20Convolutional%20Neural%20Network%20for%20Modelling%20Sentences.pdf)
 18. [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Effective%20Approaches%20to%20Attention-based%20Neural%20Machine%20Translation.pdf)
+19. [Neural Machine Translation by Jointly Learning to Align and Translate](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Neural%20Machine%20Translation%20by%20Jointly%20Learning%20to%20Align%20and%20Translate.pdf)
 
 ### Notes to add
 - [ ] Regularization
