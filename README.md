@@ -30,6 +30,7 @@ Documents have corresponding latex file you can edit.
 18. [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Effective%20Approaches%20to%20Attention-based%20Neural%20Machine%20Translation.pdf)
 19. [Neural Machine Translation by Jointly Learning to Align and Translate](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Neural%20Machine%20Translation%20by%20Jointly%20Learning%20to%20Align%20and%20Translate.pdf)
 20. [Large-scale Video Classification with Convolutional Neural Networks](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Large-scale%20Video%20Classification%20with%20Convolutional%20Neural%20Networks.pdf)
+21. [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Learning%20Phrase%20Representations%20using%20RNN%20Encoder%E2%80%93Decoder%20for%20Statistical%20Machine%20Translation.pdf)
 
 ### Notes to add
 - [ ] Regularization
