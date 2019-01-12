@@ -1,0 +1,36 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Curriculum Learning}
+\author{}
+\date{}
+
+\usepackage{natbib}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage[left=2.5cm,right=2.5cm,top=1cm,bottom=1.25cm]{geometry}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage[export]{adjustbox}
+
+
+
+\hypersetup{colorlinks=true,urlcolor=blue}
+\pagenumbering{gobble}
+
+\begin{document}
+
+\maketitle
+
+\section*{Link}
+\href{https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf}{Curriculum} 
+
+\section*{Summary}
+\begin{itemize}
+    \item Curriculum learning is the learning strategy where the training examples are presented in increasing order of complexity instead of a random order. This paper suggests that this learning process helps to reach faster convergence and also to find better local minima in the case of non-convex criteria (like in deep learning). So this can also be thought of as a form of regularizer. It can be seen as a special form of transfer learning where the initial tasks are used to guide the learner so that it will perform better on the final task.
+    \item To implement curriculum learning each training criterion is associated with different set of weights that initially favors easier examples and gradually increases weights on complex examples until at the end the re-weighting is uniform for all examples. As the re-weighting scheme becomes uniform, the entropy of these distributions also increases. 
+    \item The authors experiment of several different settings where curriculum learning was able to achieve better test set performance on each case. However the curriculum setting in each experiment was manually selected. For shape recognition they started with special versions of shapes(squares, circles, equilateral triangles) than moved to general ones(rectangles, ellipses, triangles). For language modelling task they trained with a smaller subset of vocabulary(5000 words) and increased it by 5000 on each iteration to complete vocabulary(20000 words). It might not be always clear how to devise a curriculum strategy for a task.
+    
+\end{itemize}
+
+\end{document}
