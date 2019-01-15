@@ -33,6 +33,7 @@ Documents have corresponding latex file you can edit.
 21. [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Learning%20Phrase%20Representations%20using%20RNN%20Encoder%E2%80%93Decoder%20for%20Statistical%20Machine%20Translation.pdf)
 22. [Curriculum Learning](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Curriculum%20Learning.pdf)
 23. [Maxout Networks](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Maxout%20Networks.pdf)
+24. [Visualizing and Understanding Convolutional Networks](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Visualizing%20and%20Understanding%20Convolutional%20Networks.pdf)
 
 ### Notes to add
 - [ ] Regularization
