@@ -1,0 +1,47 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Rich feature hierarchies for accurate object detection and semantic segmentation}
+\author{}
+\date{}
+
+\usepackage{natbib}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage[left=2.5cm,right=2.5cm,top=1cm,bottom=1.25cm]{geometry}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage[export]{adjustbox}
+
+
+
+\hypersetup{colorlinks=true,urlcolor=blue}
+\pagenumbering{gobble}
+
+\begin{document}
+
+\maketitle
+
+\section*{Link}
+\href{https://arxiv.org/abs/1311.2524}{arXiv} 
+
+\section*{Summary}
+\begin{itemize}
+    \item This paper uses deep CNN as feature extractor to localize and segment objects. They also showed that supervised pre-training on a large dataset (ILSVRC) followed by fine-tuning on a target smaller dataset (PASCAL) yields significant performance boost on the target dataset. 
+    \item Their object detection system consists of three modules.
+    \begin{enumerate}
+        \item Generate a category independent region proposals using selective search.
+        \item Use a large CNN to extract fixed length feature vector from each region.
+        \item Use class specific linear SVM to classify each feature vector.
+    \end{enumerate}
+    \item Two properties the detection efficient compared to other approaches at that time. First is the features extracted by CNN are shared across all categories. And second is feature vectors computed by CNN (4096-dimensional) were low-dimensional compared to others.
+    \item In each SGD iteration they sample 32 positive windows and 96 negative windows. The sampling was biased towards the positive windows because there are lot more background windows compared to actual objects in original image.
+    \item When a region contains both object and background, they use intersection over union (IOU) to label the region. If the overlap is below an IOU threshold, it is defines as negative for the object. The threshold used was 0.3, which was obtained by a grid search. Using a higher or lower threshold resulted in decreased performance.
+    \item When no fine-tuning is used feature from second fully connected layer fc$_7$ performs worse than features from the first fully connected layer fc$_6$. It suggests that the fc$_77$ learns too much domain-specific features for ILSVRC dataset. Even if both fully connected layers are removed, features from the convolution layer only (pool$_5$), produces quite good results.
+    \item Fine-tuning improves performance significantly. The boost for fine-tuning for fc$_6$ and fc$_7$ is larger than only using pool$_5$ features. 
+    \item Fine-tuning from VGG net substantially outperforms fine-tuning from AlexNet, increasing mean average precision from 58.5\% to 66\%. 
+    \item They also use bounding box regression to reduce localization error. For this they train a linear regression model to predict new detection window for each class given pool$_5$ features for a given selective search region proposal. This increases mean average precision by 3-4\%.
+    
+\end{itemize}
+
+\end{document}
