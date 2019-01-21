@@ -36,6 +36,7 @@ Documents have corresponding latex file you can edit.
 24. [Visualizing and Understanding Convolutional Networks](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Visualizing%20and%20Understanding%20Convolutional%20Networks.pdf)
 25. [R-CNN](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Rich%20feature%20hierarchies%20for%20accurate%20object%20detection%20and%20semantic%20segmentation.pdf)
 26. [Fast R-CNN](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Fast%20R-CNN.pdf)
+27. [Faster R-CNN](https://github.com/xashru/deep-learning-distilled/blob/master/pdf/paper_summary/Faster%20R-CNN.pdf)
 
 ### Notes to add
 - [ ] Regularization
